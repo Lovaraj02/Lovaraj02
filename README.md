@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bandaru Jaya Lova Raju  
 
-🎯 Aspiring Full Stack Developer | MERN & Django | Data Enthusiast  
+🎯 Aspiring Full Stack Developer | MERN | Data Enthusiast  
 💡 Passionate about building impactful projects & solving problems with code  
 
 ---
@@ -8,11 +8,6 @@
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lovaraj02&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lovaraj02&layout=compact&theme=radical)
-
----
-
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Lovaraj02&theme=radical)
 
 ---
 
