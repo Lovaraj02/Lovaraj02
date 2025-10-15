@@ -14,12 +14,11 @@
 ## ✍️ Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
 
 ## 🐍 Snake Eating My Contributions
 ![snake gif](https://github.com/Lovaraj02/Lovaraj02/blob/output/dist/snake.svg)
 
----
+
 
 ⭐️ From [Lovaraj02](https://github.com/Lovaraj02)
 
