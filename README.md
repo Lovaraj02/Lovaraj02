@@ -16,7 +16,8 @@
 
 
 ## 🐍 Snake Eating My Contributions
-![snake gif](https://github.com/Lovaraj02/Lovaraj02/blob/output/dist/snake.svg)
+![snake gif](https://raw.githubusercontent.com/Lovaraj02/Lovaraj02/output/github-contribution-grid-snake.svg)
+
 
 
 
