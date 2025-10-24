@@ -24,9 +24,9 @@ jobs:
         with:
           github_user_name: Lovaraj02
           outputs: dist/github-contribution-grid-snake.svg
-          color_snake: "#FF4500"   # orange-red snake
-          color_cell: "#1E90FF"    # dodger blue contributions
-          color_empty: "#FAFAD2"   # light goldenrod yellow empty cells
+          color_snake: "red"   # orange-red snake
+          color_cell: "green"    # dodger blue contributions
+          color_empty: "#000000"   # light goldenrod yellow empty cells
 
 
       # Push the snake animation to the output branch
