@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bandaru Jaya Lova Raju  
 
-🎯 Aspiring Full Stack Developer | MERN | Data Enthusiast  
+🎯 Aspiring Full Stack Developer | Data Enthusiast  
 💡 Passionate about building impactful projects & solving problems with code  
 
 ---
