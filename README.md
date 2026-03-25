@@ -15,8 +15,10 @@
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-## 🔥 Contribution Activity
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lovaraj02&theme=react-dark&hide_border=true)
+## ⚡ Contribution Flow
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Lovaraj02/Lovaraj02/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 
 
