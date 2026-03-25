@@ -15,9 +15,15 @@
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-## ⚡ Contribution Flow
+## ⚡ Developer Dashboard
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Lovaraj02/Lovaraj02/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lovaraj02&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lovaraj02&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lovaraj02&theme=tokyonight" />
 </p>
 
 
