@@ -6,19 +6,18 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+%7C+Django+Developer;Data+Enthusiast;Building+Impactful+Projects;Problem+Solver" />
 </p> 
 
----
+## 📊 GitHub Insights
 
-## 📊 GitHub Stats
-![Streak](https://streak-stats.demolab.com?user=Lovaraj02&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Lovaraj02&theme=tokyonight" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lovaraj02&theme=tokyonight" height="170"/>
+</p>
 
----
+
 
 ## ✍️ Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
-## 🧠 3D Contribution Map
-![3D Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lovaraj02&theme=tokyonight)
 
 
 
