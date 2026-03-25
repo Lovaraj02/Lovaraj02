@@ -4,11 +4,6 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+%7C+Django+Developer;Data+Enthusiast;Building+Impactful+Projects;Problem+Solver" />
-</p>
-
-<p align="center">
-  🚀 Passionate about building real-world applications <br>
-  💡 Focused on solving problems with clean and scalable code
 </p> 
 
 ---
