@@ -9,7 +9,6 @@
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Lovaraj02&show_icons=true&theme=tokyonight)
 ![Streak](https://streak-stats.demolab.com?user=Lovaraj02&theme=tokyonight)
 
 ---
