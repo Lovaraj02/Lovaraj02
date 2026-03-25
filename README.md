@@ -15,21 +15,9 @@
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-## ⚡ Developer Dashboard
+## 🧠 3D Contribution Map
+![3D Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lovaraj02&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lovaraj02&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lovaraj02&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lovaraj02&theme=tokyonight" />
-</p>
-
-
-
-
-⭐️ From [Lovaraj02](https://github.com/Lovaraj02)
 
 
 
