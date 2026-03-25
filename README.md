@@ -6,8 +6,8 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lovaraj02&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lovaraj02&layout=compact&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=Lovaraj02&show_icons=true&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=Lovaraj02&theme=tokyonight)
 
 ---
 
@@ -15,8 +15,8 @@
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-## 🐍 Snake Eating My Contributions
-![snake gif](https://raw.githubusercontent.com/Lovaraj02/Lovaraj02/output/github-contribution-grid-snake.svg)
+## 🔥 Contribution Activity
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lovaraj02&theme=react-dark&hide_border=true)
 
 
 
@@ -35,7 +35,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### 🧰 Backend
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
