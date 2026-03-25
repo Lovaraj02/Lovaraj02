@@ -27,7 +27,6 @@
 
 
 
-
 ## 🚀 Tech Stack
 
 <table width="100%">
@@ -41,8 +40,6 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-    </td>
-    <td width="50%" valign="top">
 
 ### ⚙️ Backend
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -51,7 +48,7 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![REST API](https://img.shields.io/badge/REST-API-00BFFF?style=for-the-badge)
 
-    </td>
+  
   </tr>
 </table>
 
