@@ -8,10 +8,16 @@
 
 ## 📊 GitHub Insights
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Lovaraj02&theme=tokyonight" height="170"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lovaraj02&theme=tokyonight" height="170"/>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com?user=Lovaraj02&theme=tokyonight" width="100%" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lovaraj02&theme=tokyonight" width="100%" />
+    </td>
+  </tr>
+</table>
 
 
 
