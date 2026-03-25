@@ -47,13 +47,10 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![REST API](https://img.shields.io/badge/REST-API-00BFFF?style=for-the-badge)
 
-    </td>
-    <td width="35%" valign="top">
 
 ### 🧠 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
-    </td>
   </tr>
 </table>
