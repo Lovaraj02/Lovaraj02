@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+%7C+Django+Developer;Data+Enthusiast;Building+Impactful+Projects;Problem+Solver" />
 </p> 
 
-## 📊 GitHub Insights
+## GitHub Insights
 
 <table>
   <tr>
@@ -59,7 +59,7 @@
 </table>
 </div>
 
-#### 📊 Currently Learning
+## Currently Learning
 
 <p align="center">
   <img src="https://img.shields.io/badge/Generative AI-8A2BE2?style=for-the-badge"/>
