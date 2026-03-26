@@ -21,9 +21,6 @@
 
 
 
-## ✍️ Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 
 
 ## Tech Stack
@@ -59,8 +56,15 @@
 
 ---
 
-### 📊 Currently Learning
-<p>
+### 📊 Currently Learning & Exploring
+
+<p align="center">
   <img src="https://img.shields.io/badge/Machine_Learning-FFD43B?style=for-the-badge&logo=scikit-learn&logoColor=black"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLMs-Prompt_Engineering-00C853?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  🚀 Building skills in AI-powered applications, model integration, and real-world problem solving
 </p>
