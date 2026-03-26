@@ -46,15 +46,15 @@
 <td align="center" width="160"><br/><img src="https://skillicons.dev/icons?i=mysql" width="40" /><br/><b>MySQL</b><br/><sub>Relational DB</sub><br/><br/></td>
 <td align="center" width="160"><br/><img src="https://skillicons.dev/icons?i=mongodb" width="40" /><br/><b>MongoDB</b><br/><sub>NoSQL Database</sub><br/><br/></td>
 <td align="center" width="160"><br/><img src="https://skillicons.dev/icons?i=git" width="40" /><br/><b>Git</b><br/><sub>Version Control</sub><br/><br/></td>
-<td align="center" width="160"><br/><img src="https://skillicons.dev/icons?i=github" width="40" /><br/><b>GitHub</b><br/><sub>Code Hosting</sub><br/><br/></td>
+<td align="center" width="160"><br/><img src="https://skillicons.dev/icons?i=postman" width="40" /><br/><b>Postman</b><br/><sub>API Testing</sub><br/><br/></td>
 </tr>
 
-<tr>
+<!-- <tr>
 <td align="center" width="160"><br/><img src="https://skillicons.dev/icons?i=postman" width="40" /><br/><b>Postman</b><br/><sub>API Testing</sub><br/><br/></td>
 <td align="center" width="160"><br/><img src="https://skillicons.dev/icons?i=bootstrap" width="40" /><br/><b>Bootstrap</b><br/><sub>UI Framework</sub><br/><br/></td>
 <td align="center" width="160"><br/><img src="https://skillicons.dev/icons?i=java" width="40" /><br/><b>Java</b><br/><sub>Core Language</sub><br/><br/></td>
 <td align="center" width="160"></td>
-</tr>
+</tr> -->
 
 </table>
 </div>
