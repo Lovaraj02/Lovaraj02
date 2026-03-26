@@ -34,14 +34,14 @@
 <td align="center" width="160"><br/><img src="https://skillicons.dev/icons?i=css" width="40" /><br/><b>CSS3</b><br/><sub>Styling</sub><br/><br/></td>
 </tr>
 <tr>
-<td align="center" width="160"><br/><img src="https://skillicons.dev/icons?i=nodejs" width="40" /><br/><b>Node.js</b><br/><sub>Backend Runtime</sub><br/><br/></td>
-<td align="center" width="160"><br/><img src="https://skillicons.dev/icons?i=express" width="40" /><br/><b>Express.js</b><br/><sub>API Framework</sub><br/><br/></td>
 <td align="center" width="160"><br/><img src="https://skillicons.dev/icons?i=django" width="40" /><br/><b>Django</b><br/><sub>Backend Framework</sub><br/><br/></td>
 <td align="center" width="160"><br/><img src="https://skillicons.dev/icons?i=python" width="40" /><br/><b>Python</b><br/><sub>Backend Language</sub><br/><br/></td>
 </tr>
 <tr>
-<td align="center" width="160"><br/><img src="https://skillicons.dev/icons?i=mongodb" width="40" /><br/><b>MongoDB</b><br/><sub>NoSQL Database</sub><br/><br/></td>
+<td align="center" width="160"><br/><img src="https://skillicons.dev/icons?i=nodejs" width="40" /><br/><b>Node.js</b><br/><sub>Backend Runtime</sub><br/><br/></td>
+<td align="center" width="160"><br/><img src="https://skillicons.dev/icons?i=express" width="40" /><br/><b>Express.js</b><br/><sub>API Framework</sub><br/><br/></td>
 <td align="center" width="160"><br/><img src="https://skillicons.dev/icons?i=mysql" width="40" /><br/><b>MySQL</b><br/><sub>Relational DB</sub><br/><br/></td>
+<td align="center" width="160"><br/><img src="https://skillicons.dev/icons?i=mongodb" width="40" /><br/><b>MongoDB</b><br/><sub>NoSQL Database</sub><br/><br/></td>
 <td align="center" width="160"><br/><img src="https://skillicons.dev/icons?i=git" width="40" /><br/><b>Git</b><br/><sub>Version Control</sub><br/><br/></td>
 <td align="center" width="160"><br/><img src="https://skillicons.dev/icons?i=github" width="40" /><br/><b>GitHub</b><br/><sub>Code Hosting</sub><br/><br/></td>
 </tr>
