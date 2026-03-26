@@ -26,37 +26,36 @@
 
 
 
-## 🚀 Tech Stack
+## Tech Stack
 
-### 🎨 Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
-
-### ⚙️ Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-### ⚒️ Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
+<div align="center">
+<table>
+<tr>
+<td align="center" width="160"><br/><img src="https://skillicons.dev/icons?i=react" width="40" /><br/><b>React.js</b><br/><sub>Frontend Library</sub><br/><br/></td>
+<td align="center" width="160"><br/><img src="https://skillicons.dev/icons?i=javascript" width="40" /><br/><b>JavaScript</b><br/><sub>Core Language</sub><br/><br/></td>
+<td align="center" width="160"><br/><img src="https://skillicons.dev/icons?i=html" width="40" /><br/><b>HTML5</b><br/><sub>Markup</sub><br/><br/></td>
+<td align="center" width="160"><br/><img src="https://skillicons.dev/icons?i=css" width="40" /><br/><b>CSS3</b><br/><sub>Styling</sub><br/><br/></td>
+</tr>
+<tr>
+<td align="center" width="160"><br/><img src="https://skillicons.dev/icons?i=nodejs" width="40" /><br/><b>Node.js</b><br/><sub>Backend Runtime</sub><br/><br/></td>
+<td align="center" width="160"><br/><img src="https://skillicons.dev/icons?i=express" width="40" /><br/><b>Express.js</b><br/><sub>API Framework</sub><br/><br/></td>
+<td align="center" width="160"><br/><img src="https://skillicons.dev/icons?i=django" width="40" /><br/><b>Django</b><br/><sub>Backend Framework</sub><br/><br/></td>
+<td align="center" width="160"><br/><img src="https://skillicons.dev/icons?i=python" width="40" /><br/><b>Python</b><br/><sub>Backend Language</sub><br/><br/></td>
+</tr>
+<tr>
+<td align="center" width="160"><br/><img src="https://skillicons.dev/icons?i=mongodb" width="40" /><br/><b>MongoDB</b><br/><sub>NoSQL Database</sub><br/><br/></td>
+<td align="center" width="160"><br/><img src="https://skillicons.dev/icons?i=mysql" width="40" /><br/><b>MySQL</b><br/><sub>Relational DB</sub><br/><br/></td>
+<td align="center" width="160"><br/><img src="https://skillicons.dev/icons?i=git" width="40" /><br/><b>Git</b><br/><sub>Version Control</sub><br/><br/></td>
+<td align="center" width="160"><br/><img src="https://skillicons.dev/icons?i=github" width="40" /><br/><b>GitHub</b><br/><sub>Code Hosting</sub><br/><br/></td>
+</tr>
+<tr>
+<td align="center" width="160"><br/><img src="https://skillicons.dev/icons?i=postman" width="40" /><br/><b>Postman</b><br/><sub>API Testing</sub><br/><br/></td>
+<td align="center" width="160"><br/><img src="https://skillicons.dev/icons?i=bootstrap" width="40" /><br/><b>Bootstrap</b><br/><sub>UI Framework</sub><br/><br/></td>
+<td align="center" width="160"><br/><img src="https://skillicons.dev/icons?i=java" width="40" /><br/><b>Java</b><br/><sub>Core Language</sub><br/><br/></td>
+<td align="center" width="160"></td>
+</tr>
+</table>
+</div>
 
 ---
 
